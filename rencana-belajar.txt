@@ -1,0 +1,8 @@
+Rencana belajar 
+
+-CodeIgniter
+*buat crud
+*templating
+-PHP Native
+-Admin LTE
+-API
