@@ -3,7 +3,10 @@ Rencana belajar
 -CodeIgniter
 *buat crud
 *templating
+  > Vue
 Project yudi
+  > Crud siswa
 -PHP Native
 -Admin LTE
 -API
+-Phalcon
