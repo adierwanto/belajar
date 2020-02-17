@@ -3,7 +3,9 @@ Rencana belajar
 -CodeIgniter
 *buat crud
 *templating
+  > Greva
+  > Klorofil
 Project yudi
 -PHP Native
 -Admin LTE
--API
+-Laravel
