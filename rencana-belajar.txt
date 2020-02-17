@@ -3,9 +3,11 @@ Rencana belajar
 -CodeIgniter
 *buat crud
 *templating
-  > Greva
-  > Klorofil
+  > Vue
+  > Admin LTE
 Project yudi
+  > Crud siswa
 -PHP Native
 -Admin LTE
--Laravel
+-API
+-Phalcon
